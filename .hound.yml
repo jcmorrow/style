@@ -1,2 +1,4 @@
 ruby:
   config_file: ./config/ruby.yml
+scss:
+  config_file: ./config/scss.yml
