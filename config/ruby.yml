@@ -4,3 +4,6 @@ Style/CollectionMethods:
   Enabled: true
   PreferredMethods:
     inject: reduce
+Style/TrailingCommaInLiteral:
+  Enabled: true
+  EnforcedStyleForMultiline: comma
